@@ -1,4 +1,4 @@
-## MFC ElectrumX Server
+## MFC node Docker
 
 MFC node docker image
 
