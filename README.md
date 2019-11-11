@@ -1,6 +1,4 @@
-## MFC ElectrumX Server
-
-MFC node docker image
+## MFC node docker image
 
 ### Building
 
@@ -20,4 +18,4 @@ If you want to check how things are inside the container, get in
 
 docker exec -ti node /bin/bash`
 
-Then check the MFCoind in /root/.MFC 
+Then check the MFCoind in /root/.MFC
